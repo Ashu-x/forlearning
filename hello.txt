@@ -1,1 +1,3 @@
 this is first line.
+this is for branch 3
+edited via remote git
